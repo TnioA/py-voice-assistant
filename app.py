@@ -30,7 +30,7 @@ def take_command():
                 
     except:
         command = "erro"
-
+    print(command)
     return command
     
     
